@@ -1,0 +1,7 @@
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\bin\Debug\DAL.dll
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\bin\Debug\DAL.pdb
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\bin\Debug\Entities.dll
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\bin\Debug\Entities.pdb
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\obj\Debug\DAL.dll
+C:\Users\Sasha\Documents\Upgrading Dev Skills\MoviesTest2\DAL\obj\Debug\DAL.pdb

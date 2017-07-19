@@ -1,0 +1,24 @@
+﻿<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <h4>Please insert movie details</h4>
+        <form ng-submit="insertMovie(insertForm)">
+            <div ng-form="insertForm" class="form-group">
+                <div>Title: <input type="text" class="form-control" ng-model="emptyMovie.Title" maxlength="150" required /></div>
+                <div>Author: <input type="text" class="form-control" ng-model="emptyMovie.Author" maxlength="150" required /></div>
+                <input type="submit" class="btn btn-primary" value="Save" />
+                {{errorMessage}}
+            </div>
+        </form>
+
+        <div>
+            <div class="panel panel-default" ng-repeat="movie in moviesList">
+                <div class="panel-heading">
+                    <h3 class="panel-title"> {{movie.Title}} </h3>
+                </div>
+                <div class="panel-body">
+                    Author: {{movie.Author}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
